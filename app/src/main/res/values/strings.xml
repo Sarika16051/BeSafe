@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Be Safe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <string-array name="navigation_drawer_items_array">
+        <item>About Us</item>
+        <item>Restore defaults</item>
+        <item>FAQs</item>
+    </string-array>
+    <string name="title_activity_monitor_noise">MonitorNoise</string>
+    <string name="title_activity_check">Check</string>
+    <string name="title_activity_dialog_box">DialogBox</string>
+    <string name="aboutText">Our app provides following features:  \n\n
+1. If the background noise is high and headphones are plugged in, it mutes the sounds so that user can be aware of the surroundings.\n\n
+2. Gives the current brightness level of the phone.</string>
+</resources>
